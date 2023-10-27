@@ -7,6 +7,7 @@
 [語法資料庫](https://www.w3schools.com/html/html_elements.asp)
 # 作業連結區
 [HW1](https://peihsiulu.github.io/HW1/)
+[HW2](https://studio.youtube.com/video/2WbSfjxPQxo/edit)
 
 # 專題連結區 
 
