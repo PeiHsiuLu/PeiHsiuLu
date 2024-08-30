@@ -23,7 +23,8 @@
 ## 作品名稱發想
 1. 理念：期望每位投資者，不論是小白或是資深投資者，利用DCA模式投資比特幣。讓比特幣如雪球般地翻滾，讓使用者用更輕鬆的方式獲得暴利！
 2. Logo 設計：Adobe Illustrator
-   ![本地圖片](https://raw.githubusercontent.com/PeiHsiuLu/PeiHsiuLu/main/%E6%96%B0%E6%AF%94%E7%89%B9%E9%9B%AA%E7%90%83.png)
+   ![image](https://github.com/user-attachments/assets/8e415aef-fd8c-4fdd-93c8-064932a92738)
+
 
 
 
