@@ -3,16 +3,16 @@
 授課教師：蔡芸琤教授  
 姓名：呂沛修  
 系級：115 科技  
-# 課程筆記區  
+# 一、課程筆記區  
 [語法資料庫](https://www.w3schools.com/html/html_elements.asp)  
 [學習小記](https://docs.google.com/document/d/1xpATTT-CX11CyOIlRsAxHfVrZYkgcenpQyNx5GYPJ-I/edit)
-# 作業連結區
+# 二、作業連結區
 [HW1 個人網站架設練習](https://peihsiulu.github.io/HW1/)  
 [HW2 MySQL Practice](https://www.youtube.com/watch?v=2WbSfjxPQxo)  
 [HW3 JS Little project](https://www.youtube.com/watch?v=gLajjVxaOB0)  
 [HW4 Azure 部署](https://www.youtube.com/watch?v=1tTbpAGpUE8)
 
-# 期末專題連結區   
+# 三、期末專題連結區   
 [比特雪球DCA](https://bitcoinwebapp.azurewebsites.net/?fbclid=IwAR1SyaN4RGs1uYxNPvsBm07o9ejUgBRG8inQy8P4uWIF0pdvYwqEqNUL0dM)  
 
 這是在網際網路概論課程製作的期末專題，主要是設計網頁，利用DCA投資模式，針對當前的比特幣進行幣值走向的分析，幫助投資人做更好的決策。
@@ -31,7 +31,11 @@
 4. 用戶論壇 (留言板)
 
 ## 網站開發
-主要是利用 Node.js 來進行網站開發，之後利用Azure部署至雲端。  
+主要是利用 Node.js 來進行網站開發，之後利用Azure部署至雲端。 
+
+## 後續
+比特雪球DCA網站算是第一代網站，但是後期我們覺得有許多地方有待改良：網站格式、留言板。所以之後又再做一次改良，讓網站變得更優質：  
+[這是更新後的比特雪球DCA網頁專題](https://github.com/PeiHsiuLu/Bitcoin)  
 
 
 
