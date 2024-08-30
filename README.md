@@ -22,7 +22,7 @@
 3. DCA 平均成本法：讓更多人知道DCA的投資模式，並且透過我們精心設計的DCA計算器實際預估投資，進而有更大的信心投入幣圈市場  
 ## 作品名稱發想
 1. 理念：期望每位投資者，不論是小白或是資深投資者，利用DCA模式投資比特幣。讓比特幣如雪球般地翻滾，讓使用者用更輕鬆的方式獲得暴利！
-2. Logo 設計：Adobe Illustrator
+2. Logo 設計：Adobe Illustrator  
    ![image](https://github.com/user-attachments/assets/8e415aef-fd8c-4fdd-93c8-064932a92738)
 
 
