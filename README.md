@@ -14,6 +14,7 @@
 
 # 期末專題連結區   
 [比特雪球DCA](https://bitcoinwebapp.azurewebsites.net/?fbclid=IwAR1SyaN4RGs1uYxNPvsBm07o9ejUgBRG8inQy8P4uWIF0pdvYwqEqNUL0dM)  
+
 這是在網際網路概論課程製作的期末專題，主要是設計網頁，針對當前的比特幣進行幣值走向的分析，幫助投資人做更好的決策。
 ## 我們設計了什麼樣的作品呢？
 1. 投資估計網站：透過DCA 平均成本法公式，來估計比特幣的走勢情形。(動態網站)  
