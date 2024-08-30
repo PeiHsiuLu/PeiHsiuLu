@@ -15,7 +15,7 @@
 # 期末專題連結區   
 [比特雪球DCA](https://bitcoinwebapp.azurewebsites.net/?fbclid=IwAR1SyaN4RGs1uYxNPvsBm07o9ejUgBRG8inQy8P4uWIF0pdvYwqEqNUL0dM)  
 
-這是在網際網路概論課程製作的期末專題，主要是設計網頁，針對當前的比特幣進行幣值走向的分析，幫助投資人做更好的決策。
+這是在網際網路概論課程製作的期末專題，主要是設計網頁，利用DCA投資模式，針對當前的比特幣進行幣值走向的分析，幫助投資人做更好的決策。
 ## 我們設計了什麼樣的作品呢？
 1. 投資估計網站：透過DCA 平均成本法公式，來估計比特幣的走勢情形。(動態網站)  
 2. 幣圈知識：讓更多人認識比特幣和其他虛擬貨幣的相關知識，讓投資小白對幣圈有更深入的瞭解。 
@@ -23,7 +23,7 @@
 ## 作品名稱發想
 1. 理念：期望每位投資者，不論是小白或是資深投資者，利用DCA模式投資比特幣。讓比特幣如雪球般地翻滾，讓使用者用更輕鬆的方式獲得暴利！
 2. Logo 設計：Adobe Illustrator
-   ![本地圖片]()
+   ![本地圖片](https://raw.githubusercontent.com/PeiHsiuLu/PeiHsiuLu/main/%E6%96%B0%E6%AF%94%E7%89%B9%E9%9B%AA%E7%90%83.png)
 
 
 
