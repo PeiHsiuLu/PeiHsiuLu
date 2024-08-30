@@ -24,11 +24,19 @@
 1. 理念：期望每位投資者，不論是小白或是資深投資者，利用DCA模式投資比特幣。讓比特幣如雪球般地翻滾，讓使用者用更輕鬆的方式獲得暴利！
 2. Logo 設計：Adobe Illustrator  
    ![image](https://github.com/user-attachments/assets/8e415aef-fd8c-4fdd-93c8-064932a92738)
+## 網站功能
+1. 提供教育知識  -介紹比特幣  
+2. 提供教育知識  -DCA投資模式  
+3. DCA計算器  (投資實際應用)  
+4. 用戶論壇 (留言板)
+
+## 網站開發
+1. 
 
 
 
 
-# 所習得的技能
+# 課堂所習得的技能
 1.前端網頁：HTML,CSS,Javascript  
 2.後端資料庫：MySQL  
 3.開發環境：Node.js,React  
