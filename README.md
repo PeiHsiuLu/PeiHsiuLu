@@ -21,7 +21,7 @@ Hello! I'm a passionate software developer with an interest in web development a
 ### [Bitcoinsnow Calculator]
 - **Description**: This is a web to predict the price of the bitcoin in the future.
 - **Technologies Used**: We use **React.js** as our web development tool.
-- **GitHub Link**: [Bitcoin](https://github.com/PeiHsiuLu/Bitcoin)
+- **GitHub Link**: [Bitcoinsnow Calculator](https://github.com/PeiHsiuLu/Bitcoin)
 
 ### [Project Name 2]
 - **Description**: Briefly describe this project as well.
