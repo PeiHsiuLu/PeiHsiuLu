@@ -4,15 +4,15 @@
 
 ## 🎯 About Me
 
-Hello! I'm a passionate software developer with an interest in [mention your specific field, e.g., web development, data science, AI]. I enjoy tackling challenges and learning new technologies to solve real-world problems. My goal is to continuously grow as a developer and contribute to impactful projects.
+Hello! I'm a passionate software developer with an interest in web development and AI. I enjoy tackling challenges and learning new technologies to solve real-world problems. My goal is to continuously grow as a developer and contribute to impactful projects.  
 
 ---
 
 ## 🔧 Skills
 
-- **Programming Languages**: Python, C, JavaScript, [Add others you're familiar with]
-- **Frameworks & Libraries**: React, Flask, Django, [Add any others]
-- **Tools**: Git, Docker, VS Code
+- **Programming Languages**: Python, C, SQL
+- **Frameworks & Libraries**: React, Flask
+- **Tools**: Git,VS Code, LLM
 
 ---
 
