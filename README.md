@@ -6,6 +6,9 @@
 
 Hello! I'm a passionate software developer with an interest in web development and AI. I enjoy tackling challenges and learning new technologies to solve real-world problems. My goal is to continuously grow as a developer and contribute to impactful projects.  
 
+To learn more about me, you can click here to see more about my information:  
+[My website](https://peihsiulu.github.io/My-website/)   
+
 ---
 
 ## 🔧 Skills
