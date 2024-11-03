@@ -11,7 +11,7 @@ Hello! I'm a passionate software developer with an interest in web development a
 ## 🔧 Skills
 
 - **Programming Languages**: Python, C, SQL, javascript, HTML, CSS
-- **Frameworks & Libraries**: React, Flask, numpy, pandas, node.js
+- **Frameworks & Libraries**: React, Flask, numpy, pandas
 - **Tools**: Git,VS Code, LLM
 
 ---
@@ -20,8 +20,8 @@ Hello! I'm a passionate software developer with an interest in web development a
 
 ### [Bitcoinsnow Calculator]
 - **Description**: This is a web to predict the price of the bitcoin in the future.
-- **Technologies Used**: node.js, javascript
-- **GitHub Link**: [Project Repository Link](https://github.com/yourusername/project)
+- **Technologies Used**: We use **React.js** as our web development tool.
+- **GitHub Link**: [Bitcoin](https://github.com/PeiHsiuLu/Bitcoin)
 
 ### [Project Name 2]
 - **Description**: Briefly describe this project as well.
