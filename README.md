@@ -21,17 +21,19 @@ To learn more about me, you can click here to see more about my information:
 
 ## 🌟 Projects
 
-### [Bitcoinsnow Calculator]
+### [1. Bitcoinsnow Calculator]
 - **Description**: This is a web to predict the price of the bitcoin in the future.
 - **Technologies Used**: We use **React.js** as our web development tool.
 - **GitHub Link**: [Bitcoinsnow Calculator](https://github.com/PeiHsiuLu/Bitcoin)
 
-### [Project Name 2]
+### [2. AI Emotion Detector]
 - **Description**: Briefly describe this project as well.
 - **Technologies Used**: List the main technologies used.
-- **GitHub Link**: [Project Repository Link](https://github.com/yourusername/project)
+- **GitHub Link**: [Project Repository Link](https://github.com/yourusername/project)  
 
----
+---  
+
+### [3. 
 
 
 ## 📫 How to Reach Me
