@@ -1,4 +1,4 @@
-# 呂沛修 Pei-Hsiu Lu (未完)
+# 呂沛修 Pei-Hsiu Lu
 
 ---
 
