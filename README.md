@@ -10,7 +10,7 @@ Hello! I'm a passionate software developer with an interest in web development a
 
 ## 🔧 Skills
 
-- **Programming Languages**: Python, C, SQL
+- **Programming Languages**: Python, C, SQL, javascript
 - **Frameworks & Libraries**: React, Flask
 - **Tools**: Git,VS Code, LLM
 
