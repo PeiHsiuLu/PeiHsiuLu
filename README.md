@@ -13,8 +13,7 @@ And you can see my development record on my github repository:
 [My Gihub Repository](https://github.com/PeiHsiuLu?tab=repositories)  
 
 And this is my daily practice:  
-1. [UVa practice](https://github.com/PeiHsiuLu/uva_practice)
-2. [LeetCodePractice](https://leetcode.com/u/peihsiulu/)  
+ [LeetCodePractice](https://leetcode.com/u/peihsiulu/)  
 
 ---
 
