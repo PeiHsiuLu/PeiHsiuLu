@@ -2,7 +2,7 @@
 
 # Hi there, I'm Paul (呂沛修) 👋
 
-I'm a passionate Full-Stack Developer & AI Enthusiast [cite: 11, 38] [cite_start]currently studying at National Taiwan Normal University (NTNU). I specialize in blending human-centric design with engineering logic to build impactful, highly available applications.
+I'm a passionate Full-Stack Developer & AI Enthusiast currently studying at National Taiwan Normal University (NTNU). I specialize in blending human-centric design with engineering logic to build impactful, highly available applications.
 
 ### 🛠️ Tech Stack
 - **Frontend**: React, Next.js, Tailwind CSS , HTML, CSS, JavaScript/TypeScript 
