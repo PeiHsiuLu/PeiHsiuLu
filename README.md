@@ -31,7 +31,7 @@ A 3D virtual island integrating **React Three Fiber (R3F)** and an LLM-based cha
 An AI computer vision project trained on the FER-2013 dataset using **TensorFlow and Keras**.The model's results were deployed and showcased via a Gradio frontend.
 
 ### 🎓 [Tech Odyssey Official Website (臺師大科技系畢業聯展)](https://ntnu-gac-tahrd.com/tahrd) 
-Served as a core frontend/backend developer. Utilized **Python Flask** for the backend and implemented strict RWD for a pixel-perfect, cross-device browsing experience, featuring a highly interactive "Galactic Battleship" dynamic animation.
+Served as a core frontend developer. Utilized **Python Flask** for the backend and implemented strict RWD for a pixel-perfect, cross-device browsing experience, featuring a highly interactive "Galactic Battleship" dynamic animation.
 
 ### 📚 [AI Course Review Generation System](https://github.com/PeiHsiuLu/Education-folio) 
 A data engineering project that utilized **Python Selenium** to scrape unstructured data, cleaned it with Regex, and applied **Gemini 1.5 Pro** (Few-shot Learning) to generate accurate academic course reviews
