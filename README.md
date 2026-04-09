@@ -6,8 +6,7 @@
 
 ## 🚀 About Me
 
-* 🎓 I am currently studying at **National Taiwan Normal University (NTNU)**, majoring in Technology Application and Human Resource Development, with a double major in  **Computer Science**.
-*💡 I am passionate about integrating design thinking with software development, maintaining a GPA of 4.15 in my first three semesters.
+* 🎓 I am currently studying at **National Taiwan Normal University (NTNU)**, majoring in Technology Application and Human Resource Development.
 * 🛠️ My expertise spans **Full-Stack Web Development**, **Data Engineering**, and **AI / LLM Applications**.
 
 
