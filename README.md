@@ -25,13 +25,13 @@
 A full-stack investment analysis tool built with **React, Node.js, and MongoDB**. It fetches real-time cryptocurrency prices via APIs to calculate Dollar-Cost Averaging (DCA) returns.
 
 ### 🏝️ [Whisper Town / LLM Chat App for College Students](https://github.com/nrps9909/TAHRD-Graduation-Project/tree/main) 
-A 3D virtual island integrating **React Three Fiber (R3F)** and an LLM-based chat application designed to help college students overcome social anxieties[cite: 105, 107, 146]. [cite_start]Developed using agile iteration and advanced AI-assisted workflows (Prompt Engineering with Claude).
+A 3D virtual island integrating **React Three Fiber (R3F)** and an LLM-based chat application designed to help college students overcome social anxieties. Developed using agile iteration and advanced AI-assisted workflows (Prompt Engineering with Claude).
 
 ### 🧑‍💻 [Facial Emotion Recognition System (人臉情緒辨識系統)](https://github.com/PeiHsiuLu/112-2-Programming-Language) 
-[cite_start]An AI computer vision project trained on the FER-2013 dataset using **TensorFlow and Keras**.The model's results were deployed and showcased via a Gradio frontend.
+An AI computer vision project trained on the FER-2013 dataset using **TensorFlow and Keras**.The model's results were deployed and showcased via a Gradio frontend.
 
 ### 🎓 [Tech Odyssey Official Website (臺師大科技系畢業聯展)](https://ntnu-gac-tahrd.com/tahrd) 
-[cite_start]Served as a core frontend/backend developer[cite: 111]. [cite_start]Utilized **Python Flask** for the backend and implemented strict RWD for a pixel-perfect, cross-device browsing experience, featuring a highly interactive "Galactic Battleship" dynamic animation.
+Served as a core frontend/backend developer. Utilized **Python Flask** for the backend and implemented strict RWD for a pixel-perfect, cross-device browsing experience, featuring a highly interactive "Galactic Battleship" dynamic animation.
 
 ### 📚 [AI Course Review Generation System](https://github.com/PeiHsiuLu/Education-folio) 
 A data engineering project that utilized **Python Selenium** to scrape unstructured data, cleaned it with Regex, and applied **Gemini 1.5 Pro** (Few-shot Learning) to generate accurate academic course reviews
