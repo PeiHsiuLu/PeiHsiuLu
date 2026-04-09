@@ -17,7 +17,7 @@
 * **Frontend Development:** React, jQuery, Bootstrap, RWD (Responsive Web Design)
 * **Backend & Database:** Node.js, Python Flask, MySQL, MongoDB 
 * **AI & Data Science:** TensorFlow, Keras, Pandas, NumPy, NLP, Selenium (Web Crawling), Prompt Engineering (Gemini, Llama 3, Claude) 
-* **Tools & Design:** Git/GitHub, Linux (Ubuntu), Illustrator, PhotoShop 
+* **Tools & Design:** Git/GitHub, Linux (Ubuntu)
 
 ## 🏆 Featured Projects
 
