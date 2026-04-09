@@ -9,6 +9,7 @@
 * 🎓 I am currently studying at **National Taiwan Normal University (NTNU)**, majoring in Technology Application and Human Resource Development.
 * 🛠️ My expertise spans **Full-Stack Web Development**, **Data Engineering**, and **AI / LLM Applications**.
 
+  
 
 ## 💻 Tech Stack
 
