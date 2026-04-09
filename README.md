@@ -36,13 +36,14 @@ Served as a core frontend developer. Utilized **Python Flask** for the backend a
 ### 📚 [AI Course Review Generation System](https://github.com/PeiHsiuLu/Education-folio) 
 A data engineering project that utilized **Python Selenium** to scrape unstructured data, cleaned it with Regex, and applied **Gemini 1.5 Pro** (Few-shot Learning) to generate accurate academic course reviews.
 
-
+### 🗄️[Database 學習紀錄：Flask & MongoDB CRUD Architecture](https://github.com/PeiHsiuLu/Database)  
 A practical learning record documenting the development of a database system architecture. This repository demonstrates the integration of **Python Flask, MongoDB, SQLAlchemy, and PyMongo** to achieve seamless frontend-backend integration and implement full CRUD functionality.
 ---
 ⭐️ *From [Pei-Hsiu's GitHub](https://github.com/PeiHsiuLu)* 
 
 ### 📫 Let's Connect!
-- **Email**: paul234jj@gmail.com 
+- **Email**: paul234jj@gmail.com   
+- **My Leetcode Profile**: https://leetcode.com/u/peihsiulu/
 
 
 
