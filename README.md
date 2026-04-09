@@ -1,31 +1,46 @@
 # 呂沛修 Pei-Hsiu Lu
 
-# Hi there, I'm Paul (呂沛修) 👋
+# Hi there, I'm Pei-Hsiu (Paul) Lu 👋
 
-I'm a passionate Full-Stack Developer & AI Enthusiast currently studying at National Taiwan Normal University (NTNU). I specialize in blending human-centric design with engineering logic to build impactful, highly available applications.
+**A Cross-Disciplinary Developer Combining Human-Centric Thinking and Engineering Logic**
 
-### 🛠️ Tech Stack
-- **Frontend**: React, Next.js, Tailwind CSS , HTML, CSS, JavaScript/TypeScript 
-- **Backend**: Node.js, Python, PHP , C/C++, Java 
-- **Databases**: MySQL, MongoDB, PostgreSQL 
-- **AI/ML**: Machine Learning, Deep Learning, NLP, LLM Applications 
-- **Tools & Core Concepts**: Git/GitHub, Docker , Linux, RESTful API, Data Structures & Algorithms 
+## 🚀 About Me
 
-### 🚀 Featured Projects
-- **LLM-Based Chat Application**: Spearheaded an AI-assisted tool aimed at solving social pain points for college students, successfully reducing social anxiety levels by approx. 17.5%.
-- **Bitcoin Investment Forecast Platform**: Developed a modern web application utilizing React, Next.js, and Tailwind CSS.
-- **Facial Emotion Recognition**: Trained a machine learning model using Kaggle datasets to accurately identify facial emotions.
-- **LLM Application: Feedback Generator**: Exploring the power of large language models for practical text generation.
+* 🎓 I am currently studying at **National Taiwan Normal University (NTNU)**, majoring in Technology Application and Human Resource Development, with a double major in **Computer Science**.
+*💡 I am passionate about integrating design thinking with software development, maintaining a GPA of 4.15 in my first three semesters.
+* 🛠️ My expertise spans **Full-Stack Web Development**, **Data Engineering**, and **AI / LLM Applications**.
 
-### 🎓 Education & Certifications
-- **B.S. in Technology Application and Human Resource Development**, National Taiwan Normal University (2022 - 2026) 
-- **C for Everyone: Programming Fundamentals**, Coursera 
-- **TOEIC**: 725 
 
-### 🌱 Experience & Currently Learning
-- **Summer Tech Camp Instructor**: Honed my communication skills by translating complex technical concepts into easily digestible language for two consecutive years.
-- Actively solving algorithmic problems on **LeetCode**.
-- Exploring computer architecture via **Nand2tetris**.
+## 💻 Tech Stack
+
+* **Programming Languages:** C/C++, Python, HTML, CSS, JavaScript 
+* **Frontend Development:** React, jQuery, Bootstrap, RWD (Responsive Web Design)
+* **Backend & Database:** Node.js, Python Flask, MySQL, MongoDB 
+* **AI & Data Science:** TensorFlow, Keras, Pandas, NumPy, NLP, Selenium (Web Crawling), Prompt Engineering (Gemini, Llama 3, Claude) 
+* **Tools & Design:** Git/GitHub, Linux (Ubuntu), Illustrator, PhotoShop 
+
+## 🏆 Featured Projects
+
+### 📈 [Bitcoin Snowball DCA (比特幣投資預估網站)](https://github.com/PeiHsiuLu/Bitcoin) 
+A full-stack investment analysis tool built with **React, Node.js, and MongoDB**. It fetches real-time cryptocurrency prices via APIs to calculate Dollar-Cost Averaging (DCA) returns.
+
+### 🏝️ [Whisper Town / LLM Chat App for College Students](https://github.com/nrps9909/TAHRD-Graduation-Project/tree/main) 
+A 3D virtual island integrating **React Three Fiber (R3F)** and an LLM-based chat application designed to help college students overcome social anxieties[cite: 105, 107, 146]. [cite_start]Developed using agile iteration and advanced AI-assisted workflows (Prompt Engineering with Claude).
+
+### 🧑‍💻 [Facial Emotion Recognition System (人臉情緒辨識系統)](https://github.com/PeiHsiuLu/112-2-Programming-Language) 
+[cite_start]An AI computer vision project trained on the FER-2013 dataset using **TensorFlow and Keras**.The model's results were deployed and showcased via a Gradio frontend.
+
+### 🎓 [Tech Odyssey Official Website (臺師大科技系畢業聯展)](https://ntnu-gac-tahrd.com/tahrd) 
+[cite_start]Served as a core frontend/backend developer[cite: 111]. [cite_start]Utilized **Python Flask** for the backend and implemented strict RWD for a pixel-perfect, cross-device browsing experience, featuring a highly interactive "Galactic Battleship" dynamic animation.
+
+### 📚 [AI Course Review Generation System](https://github.com/PeiHsiuLu/Education-folio) 
+A data engineering project that utilized **Python Selenium** to scrape unstructured data, cleaned it with Regex, and applied **Gemini 1.5 Pro** (Few-shot Learning) to generate accurate academic course reviews
+
+### 🗄️ [Flask + MongoDB CRUD Architecture](https://github.com/PeiHsiuLu/Database) 
+Developed a robust database system architecture integrating **Flask, MongoDB, SQLAlchemy, and PyMongo** to implement seamless frontend-backend integration and full CRUD functionality.
+
+---
+⭐️ *From [Pei-Hsiu's GitHub](https://github.com/PeiHsiuLu)* 
 
 ### 📫 Let's Connect!
 - **Email**: paul234jj@gmail.com 
