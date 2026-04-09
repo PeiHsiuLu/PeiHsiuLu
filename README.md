@@ -37,8 +37,7 @@ Served as a core frontend developer. Utilized **Python Flask** for the backend a
 A data engineering project that utilized **Python Selenium** to scrape unstructured data, cleaned it with Regex, and applied **Gemini 1.5 Pro** (Few-shot Learning) to generate accurate academic course reviews.
 
 ### 🗄️[Database 學習紀錄：Flask & MongoDB CRUD Architecture](https://github.com/PeiHsiuLu/Database)  
-
-A practical learning record documenting the development of a database system architecture[cite: 158]. [cite_start]This repository demonstrates the integration of **Python Flask, MongoDB, SQLAlchemy, and PyMongo** to achieve seamless frontend-backend integration and implement full CRUD functionality
+A practical learning record documenting the development of a database system architecture. This repository demonstrates the integration of **Python Flask, MongoDB, SQLAlchemy, and PyMongo** to achieve seamless frontend-backend integration and implement full CRUD functionality.
 ---
 ⭐️ *From [Pei-Hsiu's GitHub](https://github.com/PeiHsiuLu)* 
 
