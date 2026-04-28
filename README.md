@@ -3,6 +3,7 @@
 # Hi there, I'm Pei-Hsiu (Louis) Lu 👋
 
 **A Cross-Disciplinary Developer Combining Human-Centric Thinking and Engineering Logic**
+**[This is my development note on HackMD](https://hackmd.io/@Pei-Hsiu-Lu?utm_source=overview&utm_medium=team-switcher)**
 
 ## 🚀 About Me
 
