@@ -1,6 +1,6 @@
 # 呂沛修 Pei-Hsiu Lu
 
-# Hi there, I'm Pei-Hsiu (Paul) Lu 👋
+# Hi there, I'm Pei-Hsiu (Louis) Lu 👋
 
 **A Cross-Disciplinary Developer Combining Human-Centric Thinking and Engineering Logic**
 
