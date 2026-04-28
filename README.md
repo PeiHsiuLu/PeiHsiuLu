@@ -40,6 +40,9 @@ A data engineering project that utilized **Python Selenium** to scrape unstructu
 ### 🗄️[Database 學習紀錄：Flask & MongoDB CRUD Architecture](https://github.com/PeiHsiuLu/Database)  
 A practical learning record documenting the development of a database system architecture. This repository demonstrates the integration of **Python Flask, MongoDB, SQLAlchemy, and PyMongo** to achieve seamless frontend-backend integration and implement full CRUD functionality.
 
+### [Object-Oriented Analysis and Design Project: English Learning System](https://github.com/PeiHsiuLu/oop_teachingsystem)
+Being built...  
+
 ---
 ⭐️ *From [Pei-Hsiu's GitHub](https://github.com/PeiHsiuLu)* 
 
