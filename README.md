@@ -8,6 +8,7 @@
 
 * 🎓 I am currently studying at **National Taiwan Normal University (NTNU)**, majoring in Technology Application and Human Resource Development.
 * 🛠️ My expertise spans **Full-Stack Web Development**, **Data Engineering**, and **AI / LLM Applications**.
+* 🛡️ I have practical experience in information security, having recently discovered and reported a critical front-end vulnerability (userkey exposure) in a large-scale voting system, which proactively assisted the organization in mitigating potential script attacks.    
 
   
 
