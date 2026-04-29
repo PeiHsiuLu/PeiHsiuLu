@@ -26,7 +26,7 @@
 ### 📈 [Bitcoin Snowball DCA (比特幣投資預估網站)](https://github.com/PeiHsiuLu/Bitcoin) 
 A full-stack investment analysis tool built with **React, Node.js, and MongoDB**. It fetches real-time cryptocurrency prices via APIs to calculate Dollar-Cost Averaging (DCA) returns.
 
-### 🏝️ [Whisper Town / LLM Chat App for College Students](https://github.com/nrps9909/TAHRD-Graduation-Project/tree/main) 
+### 🏝️ [Whisper Town / LLM Chat App for College Students](https://docs.google.com/document/d/1lsIF14Vl2p9ut1MSn2od72JL9fJ8qx-dn6IKjzT8FVM/edit?usp=sharing) 
 A 3D virtual island integrating **React Three Fiber (R3F)** and an LLM-based chat application designed to help college students overcome social anxieties. Developed using agile iteration and advanced AI-assisted workflows (Prompt Engineering with Claude).
 
 ### 🧑‍💻 [Facial Emotion Recognition System (人臉情緒辨識系統)](https://github.com/PeiHsiuLu/112-2-Programming-Language) 
