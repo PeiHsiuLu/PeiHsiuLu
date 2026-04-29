@@ -42,7 +42,9 @@ A data engineering project that utilized **Python Selenium** to scrape unstructu
 A practical learning record documenting the development of a database system architecture. This repository demonstrates the integration of **Python Flask, MongoDB, SQLAlchemy, and PyMongo** to achieve seamless frontend-backend integration and implement full CRUD functionality.
 
 ### [Object-Oriented Analysis and Design Project: English Learning System](https://github.com/PeiHsiuLu/oop_teachingsystem)
-Being built...  
+An interactive, AI-driven web application designed to enhance English proficiency through Spaced Repetition Systems (SRS), scenario-based AI conversations, and gamified learning. This system was developed with strict adherence to Object-Oriented Analysis and Design (OOAD) principles.
+
+
 
 ---
 ⭐️ *From [Pei-Hsiu's GitHub](https://github.com/PeiHsiuLu)* 
