@@ -1,4 +1,5 @@
 # 呂沛修 Pei-Hsiu Lu
+![](https://komarev.com/ghpvc/?username=PeiHsiuLu)
 
 # Hi there, I'm Pei-Hsiu (Louis) Lu 👋
 
